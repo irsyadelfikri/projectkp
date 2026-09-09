@@ -10,7 +10,7 @@ def main() -> None:
     print(answer)
 
     if documents:
-        print("\n=== SUMBER ===\n")
+        print("\n=== SUMBER DOKUMEN ===\n")
 
         sources = set(
             (
